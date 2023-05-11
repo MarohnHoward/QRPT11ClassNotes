@@ -21,6 +21,9 @@ describe("Testing the calculator", () => {
       test("(28/4)*(6/2)*(30-27+(3-4)) == 42", () => {
         expect(true).toBeTruthy();
       });
+      test("1 < 100", () => {
+        expect(1<100).toBeTruthy()
+      })
     });
   });
   
