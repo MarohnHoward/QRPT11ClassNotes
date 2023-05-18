@@ -1,5 +1,5 @@
 console.log("\nFirst Object\n")
-
+// comment
 var myPerson = {
     firstName: "Bernice",
     lastName: "Ortiz",
