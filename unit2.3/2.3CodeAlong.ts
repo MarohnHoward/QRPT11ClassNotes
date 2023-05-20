@@ -1,5 +1,10 @@
 console.log("\nFirst Object\n")
-// comment
+/*comment code
+sfsadfas
+afsdfas
+asfasdf
+*/
+//example comment
 var myPerson = {
     firstName: "Bernice",
     lastName: "Ortiz",
