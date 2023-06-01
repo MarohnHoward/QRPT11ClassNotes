@@ -1,5 +1,4 @@
 import {Builder, By, Capabilities, until, WebDriver, WebElement} from "selenium-webdriver";
-import { Options } from "selenium-webdriver/edge";
 const chromedriver = require('chromedriver'); 
 
 interface Options {
